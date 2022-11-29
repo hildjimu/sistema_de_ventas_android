@@ -1,33 +1,33 @@
 {
   "project_info": {
-    "project_number": "720599509159",
-    "project_id": "sistemaventas-1bffa",
-    "storage_bucket": "sistemaventas-1bffa.appspot.com"
+    "project_number": "563564756108",
+    "project_id": "sistemaventas-f259d",
+    "storage_bucket": "sistemaventas-f259d.appspot.com"
   },
   "client": [
     {
       "client_info": {
-        "mobilesdk_app_id": "1:720599509159:android:849aa70727d8470d85d382",
+        "mobilesdk_app_id": "1:563564756108:android:1da9d3d4c5816501078fa9",
         "android_client_info": {
           "package_name": "com.example.sistemaventasfb"
         }
       },
       "oauth_client": [
         {
-          "client_id": "720599509159-ps99kgmqqa88drdgjh6ksvlb56q37963.apps.googleusercontent.com",
+          "client_id": "563564756108-bucp9g0hbp9gm24obaiu2hm6ro4bj800.apps.googleusercontent.com",
           "client_type": 3
         }
       ],
       "api_key": [
         {
-          "current_key": "AIzaSyD2-eYg51C46eHuhFqKOYKsCsDi2YB5VNI"
+          "current_key": "AIzaSyBNCFn3Bvl8lNjfgOHKyHvGLbku6IycT-Y"
         }
       ],
       "services": {
         "appinvite_service": {
           "other_platform_oauth_client": [
             {
-              "client_id": "720599509159-ps99kgmqqa88drdgjh6ksvlb56q37963.apps.googleusercontent.com",
+              "client_id": "563564756108-bucp9g0hbp9gm24obaiu2hm6ro4bj800.apps.googleusercontent.com",
               "client_type": 3
             }
           ]
