@@ -104,12 +104,6 @@ public class MainActivity extends AppCompatActivity {
                                 });
                     }
                 });
-                btnedit.setOnClickListener(new View.OnClickListener() {
-                    @Override
-                    public void onClick(View v) {
-                        Toast.makeText(getApplicationContext(),"Entra por aqui...",Toast.LENGTH_SHORT).show();
-                    }
-                });
                 btnsave.setOnClickListener(new View.OnClickListener() {
                     @Override
                     public void onClick(View view) {
